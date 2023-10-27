@@ -18,6 +18,7 @@
 - [Game Overview](#game-overview)
 - [Features](#features)
 - [How to Play](#how-to-play)
+- [Authors](#authors)
 
 ## Game Overview
 
@@ -105,4 +106,6 @@ In this mode, you can play against the computer, which offers two difficulty lev
 
 After playing, the program offers the option to continue playing or exit. It also provides a summary of the games played and won by you and the computer.
 
->>>>>>> 78451377133f66ec1aa2a50e7b613326ac2cb555
+## Authors
+
+* **Ahmed Amir** - *Comp Sci Student* - [Ahmed Amir](https://github.com/AhmedA007/) 
